@@ -1,0 +1,2 @@
+<div class="alert alert-danger" role="alert">Сбой работы сервера. Регистрация не удалась, попробуйте немного позже.</div>
+<button type="button" class="btn button-back-error" onclick="history.back(-1)">Назад</button>
